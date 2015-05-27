@@ -1,0 +1,9 @@
+require([
+    'base',
+    'groupListModel'
+],function(
+    base,
+    groupListModel
+){
+    console.dir(Backbone)
+})

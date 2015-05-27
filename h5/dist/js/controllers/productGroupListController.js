@@ -1,0 +1,1 @@
+define("groupListModel",{ala:"dddd"}),require(["base","groupListModel"],function(e,t){console.dir(Backbone)}),define("groupListControler",function(){});

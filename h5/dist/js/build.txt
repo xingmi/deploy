@@ -1,0 +1,12 @@
+
+common/base.js
+----------------
+lib/underscore-min.js
+lib/zepto-min.js
+lib/backbone-min.js
+common/base.js
+
+controllers/productGroupListController.js
+----------------
+models/groupListModel.js
+controllers/productGroupListController.js
